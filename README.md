@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">✨ Iniciei minha jornada de estudos em outubro de 2017, com o curso Técnico em Desenvolvimento de Sistemas, e me formei em fevereiro de 2019. Retomei meus estudos em outubro de 2024, participando de um Bootcamp na DIO, e, em fevereiro de 2025, dei início à minha formação em Análise e Desenvolvimento de Sistemas.<br>📚 Objetivo: Após concluir minha formação em Análise e Desenvolvimento de Sistemas, meu objetivo é cursar Ciências da Computação para aprofundar meus conhecimentos. Posteriormente, planejo realizar uma pós-graduação em uma área ainda a ser definida e seguir uma carreira profissional na área de Desenvolvimento de Software.<br>🎲 Curiosidade: Sou de Contagem - Minas Gerais, nas minhas horas vagas gosto de assistir jogos de futebol, sou Cruzeirense.</p>
+<p align="left">✨ Iniciei minha jornada de estudos em outubro de 2017, com o curso Técnico em Desenvolvimento de Sistemas, e me formei em fevereiro de 2019. Retomei meus estudos em outubro de 2024, participando de um Bootcamp na DIO, e, em fevereiro de 2025, dei início à minha formação em Análise e Desenvolvimento de Sistemas.
+<br>  
+<br>
+📚 Objetivo: Após concluir minha formação em Análise e Desenvolvimento de Sistemas, meu objetivo é cursar Ciências da Computação para aprofundar meus conhecimentos. Posteriormente, planejo realizar uma pós-graduação em uma área ainda a ser definida e seguir uma carreira profissional na área de Desenvolvimento de Software.
+<br>  
+<br>
+🎲 Curiosidade: Sou de Contagem - Minas Gerais, nas minhas horas vagas gosto de assistir jogos de futebol, sou Cruzeirense.</p>
 
 ###
 
