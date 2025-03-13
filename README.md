@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Iniciei minha jornada de estudos em 2017 e retomei a rotina de estudos em Outubro de 2024.<br>📚 Atualmente estou aprendendo, Java com Spring Boot e Angular<br>🎯 Objetivos: Trabalhar com Desenvolvimento de Sistemas.<br>🎲 Curiosidade: Sou de Contagem - Minas Gerais, nas minhas horas vagas gosto de assistir jogos de futebol, sou Cruzeirense.</p>
+<p align="left">✨ Iniciei minha jornada de estudos em outubro de 2017, com o curso Técnico em Desenvolvimento de Sistemas, e me formei em fevereiro de 2019. Retomei meus estudos em outubro de 2024, participando de um Bootcamp na DIO, e, em fevereiro de 2025, dei início à minha formação em Análise e Desenvolvimento de Sistemas.<br>📚 Após concluir minha formação em Análise e Desenvolvimento de Sistemas, pretendo cursar Ciências da Computação e seguir carreira profissional na área de Desenvolvimento de Software.<br>🎲 Curiosidade: Sou de Contagem - Minas Gerais, nas minhas horas vagas gosto de assistir jogos de futebol, sou Cruzeirense.</p>
 
 ###
 
