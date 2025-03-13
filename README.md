@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Iniciei minha jornada de estudos em 2017<br>📚 Atualmente estou aprendendo, Java com Spring Boot e Angular<br>🎯 Objetivos: Trabalhar com Desenvolvimento de Sistemas<br>🎲 Curiosidade: Sou de Contagem - Minas Gerais, nas minhas horas vagas gosto de assistir jogos de futebol, sou Cruzeirense.</p>
+<p align="left">✨ Iniciei minha jornada de estudos em 2017 e retomei a rotina de estudos em Outubro de 2024.<br>📚 Atualmente estou aprendendo, Java com Spring Boot e Angular<br>🎯 Objetivos: Trabalhar com Desenvolvimento de Sistemas.<br>🎲 Curiosidade: Sou de Contagem - Minas Gerais, nas minhas horas vagas gosto de assistir jogos de futebol, sou Cruzeirense.</p>
 
 ###
 
