@@ -41,7 +41,7 @@
 
 ###
 
-  <h2 align="left">Essas são as tecnlogias que já tive contato algum contato:</h2>
+  <h2 align="left">Essas são as tecnologias com as quais já tive algum contato:</h2>
   
 ###
 
