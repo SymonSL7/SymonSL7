@@ -79,6 +79,27 @@
 
 ###
 
+  <h2 align="left">Meus Principais Projetos:</h2>
+
+###
+
+#### Controle de Estoque Full-Stack (Aplicação Real)
+- Desenvolvimento de uma aplicação Web para controle de estoque, com o objetivo de otimizar a gestão do meu Ecommerce.
+- Tecnologias: Angular (Front-end), PHP e Symfony (Back-end).
+- Repositório: [SymonSL7/controle-estoque-full-stack](https://github.com/SymonSL7/controle-estoque-full-stack)
+  
+#### Vestindo Esperança (Projeto Acadêmico - PUC MINAS)
+- Desenvolvimento do front-end de uma aplicação Web, como projeto do 1º período do curso de Análise e Desenvolvimento de Sistemas (PUC MINAS).
+- Tecnologias: HTML, CSS e JavaScript.
+- Repositório: [SymonSL7/VestindoEsperancaPucMinas1Periodo](https://github.com/SymonSL7/VestindoEsperancaPucMinas1Periodo)
+  
+#### Portfólio Profissional Dinâmico
+- Desenvolvimento de um portfólio profissional onde as informações são carregadas dinamicamente a partir de um arquivo JSON.
+- Tecnologias: HTML, CSS e JavaScript (Fetch API).
+- Repositório: [SymonSL7/Portfolio](https://github.com/SymonSL7/Portfolio)
+
+###
+
 <h2 align="left">Conecte-se comigo:</h2>
 
 ###
