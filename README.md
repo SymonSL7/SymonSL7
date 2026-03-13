@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Symon Silva Lima, tenho 27 anos, sou formado em Técnico em Desenvolvimento de Sistemas pelo Senai Fatec e atualmente estou cursando o superior em Análise e Desenvolvimento de Sistemas na PUC Minas.</p>
+<p align="left">Meu nome é Symon Silva Lima, tenho 28 anos, sou formado em Técnico em Desenvolvimento de Sistemas pelo Senai Fatec e atualmente estou cursando o superior em Análise e Desenvolvimento de Sistemas na PUC Minas.</p>
 
 ###
 
@@ -17,6 +17,12 @@
 <br>  
 <br>
 🎲 Curiosidade: Sou de Contagem - Minas Gerais, nas minhas horas vagas gosto de assistir jogos de futebol, sou Cruzeirense.</p>
+
+###
+
+<h2 align="left">Link para o GitHub somente de projetos: </h2>
+
+<a href="https://github.com/orgs/SymonProjetos/repositories" target="_blank">GitHub.com/SymonProjetos</a>
 
 ###
 
