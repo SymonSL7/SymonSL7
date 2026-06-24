@@ -22,7 +22,7 @@
 
 <h2 align="left">Link para o GitHub somente de projetos: </h2>
 
-<a href="https://github.com/orgs/SymonProjetos/repositories" target="_blank">GitHub.com/SymonProjetos</a>
+<a href="https://github.com/orgs/SymonProjetos/repositories" target="_blank">SymonProjetos</a>
 
 ###
 
@@ -89,15 +89,29 @@
 
 ###
 
-#### Controle de Estoque Full-Stack (Aplicação Real)
-- Desenvolvimento de uma aplicação Web para controle de estoque, com o objetivo de otimizar a gestão do meu Ecommerce.
-- Tecnologias: Angular (Front-end), PHP e Symfony (Back-end).
-- Repositório: [SymonSL7/controle-estoque-full-stack](https://github.com/SymonSL7/controle-estoque-full-stack)
-  
-#### Vestindo Esperança (Projeto Acadêmico - PUC MINAS)
-- Desenvolvimento do front-end de uma aplicação Web, como projeto do 1º período do curso de Análise e Desenvolvimento de Sistemas (PUC MINAS).
-- Tecnologias: HTML, CSS e JavaScript.
-- Repositório: [SymonSL7/VestindoEsperancaPucMinas1Periodo](https://github.com/SymonSL7/VestindoEsperancaPucMinas1Periodo)
+#### 📱 ShopSmart
+*Projeto Acadêmico (PUC MINAS - 3º Período)*
+*   **Descrição:** Desenvolvimento do Front-End Mobile de um aplicativo voltado para a colaboração e comparação de preços em supermercados locais, focando em uma interface fluida e intuitiva.
+*   **Tecnologias:** React Native, Expo, JavaScript.
+*   **Repositório:** [SymonProjetos/ShopSmart](https://github.com/SymonProjetos/ShopSmart)
+
+#### 🎓 Saber+
+*Projeto Acadêmico (PUC MINAS - 2º Período)*
+*   **Descrição:** Aplicação web para gestão de cursos online. O sistema foi desenhado para facilitar e otimizar o relacionamento e a interação entre alunos, instrutores e o conteúdo educacional.
+*   **Tecnologias:** C#, ASP.NET Core MVC.
+*   **Repositório:** [SymonProjetos/SaberMais](https://github.com/SymonProjetos/SaberMais)
+
+#### 📦 Controle de Estoque Full-Stack
+*Aplicação Real*
+*   **Descrição:** Sistema Web desenvolvido para gerenciar e otimizar o fluxo do meu e-commerce. A aplicação possui uma arquitetura enxuta e transacional, onde todas as movimentações de inventário ficam rigorosamente armazenadas e centralizadas nas tabelas do banco de dados para segurança e consulta, dispensando a necessidade de módulos pesados de relatórios analíticos.
+*   **Tecnologias:** Angular, PHP, Symfony.
+*   **Repositório:** [SymonProjetos/controle-estoque-full-stack](https://github.com/SymonProjetos/controle-estoque-full-stack)
+
+#### 👕 Vestindo Esperança
+*Projeto Acadêmico (PUC MINAS - 1º Período)*
+*   **Descrição:** Construção da interface de usuário (Front-End) de uma aplicação Web como projeto interdisciplinar de introdução ao desenvolvimento.
+*   **Tecnologias:** HTML, CSS, JavaScript.
+*   **Repositório:** [SymonProjetos/VestindoEsperancaPucMinas1Periodo](https://github.com/SymonProjetos/VestindoEsperancaPucMinas1Periodo)
   
 #### Portfólio Profissional Dinâmico
 - Desenvolvimento de um portfólio profissional onde as informações são carregadas dinamicamente a partir de um arquivo JSON.
