@@ -89,6 +89,12 @@
 
 ###
 
+#### 📱 Cora Lingerie 
+*Catálogo Digital / Aplicação Real*
+*   **Descrição:** Desenvolvimento Full-Stack de uma vitrine digital (Mobile e Web). Inclui aplicativo de catálogo interativo para clientes e um painel de administração (CMS) para gestão de produtos e banners.
+*   **Tecnologias:** React Native, Expo, TypeScript, Tailwind CSS, Supabase, React Query e Zustand.
+*   **Site:** [Cora Lingerie](https://coralingerie.com.br/)
+
 #### 📱 ShopSmart
 *Projeto Acadêmico (PUC MINAS - 3º Período)*
 *   **Descrição:** Desenvolvimento do Front-End Mobile de um aplicativo voltado para a colaboração e comparação de preços em supermercados locais, focando em uma interface fluida e intuitiva.
